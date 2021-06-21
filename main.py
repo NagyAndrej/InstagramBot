@@ -14,7 +14,7 @@ browser = webdriver.Firefox(firefox_profile=browser_profile)
 
 
 #ÚčTY, KTORé SA BUDú FOLLOWOVAT
-channels = []                        #ADD ALL CHANNELS FROM WHERE YOU WANT A FOLLOWERS
+channels = []                        #ADD ALL CHANNELS FROM WHERE YOU WANT FOLLOWERS
 #POOL KOMENTáROV
 comments = []                        #CREATE A POOL OF COMMENTS YOU WANT TO UPLOAD                   
 #HASHTAGY NA VYHLADANIE FOTIEK
