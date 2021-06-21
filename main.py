@@ -14,11 +14,11 @@ browser = webdriver.Firefox(firefox_profile=browser_profile)
 
 
 #ÚčTY, KTORé SA BUDú FOLLOWOVAT
-channels = []
+channels = []                        #ADD ALL CHANNELS FROM WHERE YOU WANT A FOLLOWERS
 #POOL KOMENTáROV
-comments = []
+comments = []                        #CREATE A POOL OF COMMENTS YOU WANT TO UPLOAD                   
 #HASHTAGY NA VYHLADANIE FOTIEK
-hashtags = []
+hashtags = []                        #HASHTAGS FOR FINDING SPECIFIC CONTENT
 
 #METHODS
 def start_log():
